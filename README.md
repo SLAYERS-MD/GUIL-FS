@@ -40,7 +40,7 @@ Siempre usa la librería principal y oficial de Baileys.
 <summary><strong>🍒 Cloud</strong> — Shell</summary>
 
 ```bash
-git clone https://github.com/The-King-Destroy/YukiBot-MD
+git clone https://github.com/SLAYERS-MD/GUIL-FS.git
 ```
 
 ```bash
